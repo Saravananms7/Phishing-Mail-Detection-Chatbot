@@ -1,0 +1,58 @@
+# ==================================================
+# PhishShield AI - Master Repository Exclusions
+# ==================================================
+
+# 1. Environment Secrets & API Keys (CRITICAL SECURITY)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+
+# 2. Python Virtual Environments
+backend/venv/
+backend/env/
+venv/
+.venv/
+env/
+ENV/
+
+# 3. Python Cache & Compilation Artifacts
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+.cache/
+*.egg-info/
+*.egg
+
+# 4. Frontend / Node Packages & Production Bundles
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/out/
+.npm/
+
+# 5. Editor / IDE Configurations
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# 6. OS & System Temporary Files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Log.txt
+*.log
