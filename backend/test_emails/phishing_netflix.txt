@@ -1,0 +1,17 @@
+Subject: Critical Notice: Your subscription will be suspended in 24 hours
+From: Netflix Billing <no-reply@suspension-netflix.com>
+Date: May 22, 2026
+
+Dear Customer,
+
+We were unable to process your monthly subscription payment. As a result, your account has been temporarily suspended.
+
+To restore access and prevent permanent deactivation of your account, you must update your credit card and billing credentials immediately. Click the link below to access our secure restoration portal:
+
+https://netflix.com/restore-billing-portal
+
+If you do not update your billing details within 24 hours, your profile and history will be permanently deleted from our servers.
+
+Sincerely,
+Netflix Account Team
+suspension-netflix.com

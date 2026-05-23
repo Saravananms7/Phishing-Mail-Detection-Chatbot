@@ -1,0 +1,17 @@
+Subject: Urgent: Outgoing wire transfer pending verification
+From: Chase Bank Alerts <alerts@chase-secure-banking.net>
+Date: May 22, 2026
+
+Dear Customer,
+
+A wire transfer in the amount of $4,500.00 to recipient 'Boris Kovak' has been initiated from your checking account and is currently on hold.
+
+If you did NOT authorize this transaction, you MUST abort it immediately to prevent disbursement of funds. Click the link below to verify your identity and cancel the transfer within 30 minutes:
+
+http://192.168.4.12/cancel-wire-txn
+
+Failure to cancel the transaction will result in final execution, and the funds will be permanently debited from your checking account.
+
+Sincerely,
+Chase Fraud Prevention Department
+chase-secure-banking.net

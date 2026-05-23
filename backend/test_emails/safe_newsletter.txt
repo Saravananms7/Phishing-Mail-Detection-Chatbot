@@ -1,0 +1,18 @@
+Subject: Weekly Engineering Team Update & Roadmap
+From: engineering-leads@company-internal.com
+Date: May 22, 2026
+
+Hi Team,
+
+Here is our routine weekly summary of ongoing projects and the technical roadmap for the upcoming quarter:
+
+1. Architecture Migration: We are on track to migrate the core analytics database to the new high-performance cluster by next Wednesday.
+2. Multi-Factor Authentication: The IT Security team is rolling out an updated mobile authentication system next Tuesday. Please register your device using the instructions on the corporate intranet at:
+   https://intranet.company-internal.com/it/mfa-setup.html
+3. Code Freeze: Our main production code freeze will start on Friday, June 5th, in preparation for the summer release.
+
+If you have any questions or require hands-on support with the authentication setup, please drop by the IT helpdesk on the 3rd floor or open an internal ticket in the JIRA dashboard.
+
+Best regards,
+Engineering Operations
+company-internal.com Team
